@@ -1,0 +1,97 @@
+The following is an excerpt from the UCSD General Catalog section on Academic Dishonesty: 
+
+STUDENTS’ RESPONSIBILITIES 
+
+Students are expected to complete the course in compliance with the instructor’s standards. No student shall engage in any activity that involves attempting to receive a grade by means other than honest effort, for example: 
+
+
+1. No student shall knowingly procure, provide, or accept any materials that contain questions or answers to any examination or assignment to be given at a subsequent time.
+
+2. No student shall complete, in part or in total, any examination or assignment for another person.
+
+3. No student shall knowingly allow any examination or assignment to be completed, in part or in total, for himself or herself by another person.
+
+4. No student shall plagiarize or copy the work of another person and submit it as his or her own work.
+
+5. No student shall employ aids excluded by the instructor in undertaking course work.
+
+6. No student shall alter graded class assignments or examinations and then resubmit them for regrading.
+
+7. No student shall submit substantially the same material in more than one course without prior authorization.
+
+
+A student acting in the capacity of an instructional assistant (IA), including but not limited to teaching assistants, readers, and tutors, has a special responsibility to safeguard the integrity of scholarship. In these roles the student functions as an apprentice instructor, under the tutelage of the responsible instructor. An IA shall equitably grade student work in the manner agreed upon with the course instructor. An IA shall not make any unauthorized material related to tests, exams, homeworks, etc. available to any student. 
+
+The following are additional examples not listed in the General Catalog specific to CSE 12: 
+
+1. No student shall provide their assignments, in part or in total, to any other student in current or future classes of this course. No student shall procure or accept assignments from any other student from current or prior classes of this course, or any other person who possesses answers to these or similar assignments.
+
+2.No student shall obtain code in part or in whole from any source other than the code explicitly provided by the instructor. In particular, no student shall use code found on any internet site other than the course site unless explicitly authorized by the instructor.
+
+3. All programming code and documentation submitted for evaluation or existing inside the student’s computer accounts must be the student’s original work or material specifically authorized by the instructor. The course accounts are authorized for course work only.
+
+4. Collaborating with other students to develop, complete or correct course work is limited to activities explicitly authorized by the instructor. Use of your own previous course work or other student’s course work, in part or in total, to develop, complete or correct course work, including documentation, is unauthorized. Use of texting or messaging services or Internet sites like Pastebin or GitHub or similar systems to share or publish course files in part or in total is unauthorized. Unless otherwise explicitly authorized, each student is completely responsible to keep their code, homeworks, design files and other course work off of Internet sites.
+
+5. For all group assignments, each member of the group is responsible for the academic integrity of the entire submitted work.
+
+6. No student shall discuss the content or answers of any exam or quiz with any other student enrolled in any section of CSE 12 who has not yet taken the exam until after all the exams are graded and returned. This policy applies even though exam versions between sections will be different. 
+
+And finally, the specifics from the syllabus: 
+
+The basic rule for CSE 12 is: Work hard. Make use of the expertise of the CSE 12 staff to learn what you need to know to really do well in the course. Don't cheat. 
+
+If you do cheat, we will enforce the UCSD Policy on Integrity of Scholarship (see the General Catalog or the corresponding web page). This means: You will get an F in the course, and the Dean of your college will put you on probation or suspend you or dismiss you from UCSD. 
+
+What counts as cheating? 
+
+In CSE 12, you can read books, surf the web, talk to your friends and the CSE 12 staff to get help understanding the concepts you need to know to solve your homework problems. However, all code must be written by you (unless something else is specified). 
+
+The following activities are considered cheating and are NOT ALLOWED in CSE 12 (Note: this is not an exhaustive list) 
+
+* Using code acquired from other students (except your partner, where allowed), the web, or any other resource not officially sanctioned by this course (the book and reading assignments) in your homework assignments
+
+* Having any other student complete any part of your homework assignment on your belalf
+
+* Acquiring quiz or exam questions or answers prior to taking the quiz or exam
+
+* Completing a quiz on behalf of someone else
+
+* Using someone else's clicker for them to earn them credit or giving your clicker to someone else so that they can participate for you to earn credit
+
+* Providing code, quiz or exam questions, or quiz or exam solutions to any other student in the course
+
+* Using any external resource on closed-book exams 
+
+The following activities are examples of appropriate collaboration and ARE allowed in CSE 12: 
+
+* Discussing the general approach to solving homework problems or programs
+
+* Talking about debugging strategies or debugging issues you ran into and how you solved them
+
+* Discussing the answers to quizzes or exams with other students who have already taken the quiz or exam after the quiz or exam is complete
+
+* Using code provided in class, by the textbook or any other assigned reading or video, with attribution
+
+* Google searching for documentation on Java libraries
+
+* Using Java libraries EXCEPT WHERE EXPLICITLY PROHIBITED 
+
+How can I be sure that my actions are NOT considered cheating? 
+
+To ensure you don't have a problem with this, here are some suggestions (in this discussion we aren't talking about your assigned partner): 
+
+* Don't even look at or discuss another student's code for a homework you are working on, and don't let another student look at your code.
+
+* Don't start with someone else's code and make changes to it, or in any way share code with other students.
+
+
+* If you are talking to another student about the assignment, don't take notes, and wait an hour afterward before you write any code. 
+
+To reinforce these points, every student in CSE 12 must read, understand, and sign this Integrity of Scholarship Agreement before completing any work for this class. By writing your name below, you are certifying that you understand and agree to this policy. 
+
+* 1. By placing your name in the box below you are asserting that you are (a) a student enrolled in CSE 12, (b) that you have read and understood the UCSD Policy on Academic Integrity, and (c) that you have read the above text and understand how this policy applies specifically to CSE 12. You are also asserting that you will seek authorized assistance when you need help. By responding to this survey, you are providing a signed copy of this agreement to the CSE 12 staff for their records. 
+
+First Name: Jingyi	
+Last Name:  Ouyang
+PID (please use a capital A): A53108909
+Date: 09/27/2016
